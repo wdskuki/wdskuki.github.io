@@ -1,7 +1,7 @@
 ---
 title: web worker数量是不是越多越好？
 date: 2024-01-25 10:00:00
-tags:
+tags: web worker
 ---
 
 # 背景

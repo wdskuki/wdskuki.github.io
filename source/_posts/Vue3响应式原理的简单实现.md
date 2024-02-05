@@ -1,7 +1,7 @@
 ---
 title: Vue3响应式原理的简单实现
 date: 2022-04-23 10:00:00
-tags: javascript, vue, vue3
+tags: vue
 ---
 
 # 背景

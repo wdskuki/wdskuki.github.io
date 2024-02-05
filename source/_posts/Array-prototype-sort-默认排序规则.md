@@ -1,7 +1,7 @@
 ---
 title: Array.prototype.sort()默认排序规则
 date: 2024-01-12 10:00:00
-tags:
+tags: javascript
 ---
 
 在JavaScript中，数组的`sort()`方法默认按照字符串顺序排序，而不是数字顺序。所以当你对一个包含数字的数组直接调用`sort()`时，它会先将数组元素转换为字符串，然后进行比较。

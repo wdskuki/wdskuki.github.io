@@ -1,7 +1,7 @@
 ---
 title: GraphQL入门篇
 date: 2024-01-29 10:00:00
-tags:
+tags: GraphQL
 ---
 
 # 背景
